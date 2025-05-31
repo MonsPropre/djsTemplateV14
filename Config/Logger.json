@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+
+  "showDate": true,
+  "showFile": true,
+  "showRelativePath": true,
+  "fileUpperCase": false,
+  "fileCapitalized": false,
+  "enableLog": true,
+  "enableError": true
+}
