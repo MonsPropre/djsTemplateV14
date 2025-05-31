@@ -10,6 +10,7 @@ const {
 module.exports = {
 	data: new SlashCommandBuilder()
 		.setName("help")
+		.setDMPermission(false)
 		.setDescription("Displays the list of bot commands"),
 	async execute(interaction) {
 		const categories = [
